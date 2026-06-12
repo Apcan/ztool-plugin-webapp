@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/@ztools-center/ztools-api-types/resource/ztools.schema.json",
-  "name": "WEBAPP",
+  "name": "webapp",
   "title": "网页应用",
   "description": "你可以添加web应用到插件中，一键直接加载应用",
   "author": "Apcan",
